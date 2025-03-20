@@ -5,6 +5,7 @@
 - 📫 How can you contact me? https://www.linkedin.com/in/pedro-braz-706540300/
 - ⚡ Fun fact: The programming languages ​​I like to use the most are HTML, CSS and Java.
                 I am currently finishing my portfolio to allocate my projects within it.
+                I am passionate about technology.
 
 <!---
 BRAZ175/BRAZ175 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
